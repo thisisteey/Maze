@@ -1,0 +1,67 @@
+# Ignore Visual Studio Code folders
+.vscode
+
+# Ignore SDL2 folders
+/SDL2
+
+# Prerequisites
+# Compiled D source files
+*.d
+
+# Object files
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+# Linker output files
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+# Precompiled header files
+*.gch
+*.pch
+
+# Libraries
+# Compiled library files
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (including Windows DLLs)
+# Shared object files and dynamic link libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+# Compiled executable files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+# Debugging symbols and temporary debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+# Files generated during kernel module compilation
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
