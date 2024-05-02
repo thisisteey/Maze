@@ -70,15 +70,15 @@ Here ```default``` refers to the name of the file found in the maps folder.
 
 ## Directories
 
+[`headers`](https://github.com/thisisteey/Maze/tree/master/headers)
+
+Contains all the header files of the game.
+
 [`images`](https://github.com/thisisteey/Maze/tree/master/images)
 
 Contains all images files and Texture sources
 
 https://www.seekpng.com
-
-[`inc`](https://github.com/thisisteey/Maze/tree/master/inc)
-
-Contains all the header files of the game.
 
 [`maps`](https://github.com/thisisteey/Maze/tree/master/maps)
 
